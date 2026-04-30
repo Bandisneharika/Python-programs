@@ -1,0 +1,3 @@
+a="I love india and USA"
+b=a.upper()
+print(b)
