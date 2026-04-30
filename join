@@ -1,0 +1,3 @@
+a="kddekf ihds875326r87w iohjewioas iwudhdiahi"
+b="".join(i for i in a if i.isalnum())
+print(b)
