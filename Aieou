@@ -1,0 +1,3 @@
+a="SNEHARIKA BANDI is FROM HYDERABAD and innocent"
+b="sneha".join("Cute"for i in a if i in "AEIOU")
+print(b)
